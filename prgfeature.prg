@@ -1,2 +1,3 @@
 Nueva Funcionalidad
-Cambios desde main
+- Cambios desde feature
+- Cambios desde main
